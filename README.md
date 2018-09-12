@@ -1,3 +1,4 @@
+
 Dataset can be found at : http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
 Language used : MATLAB
 
@@ -18,4 +19,6 @@ Run the following files in order:
 4. evaluateRecognitionSystem.m 
 
 This will result in dictionary.mat, wordMap.mat for each image file, vision.mat and a confusion matrix respectively.
+
+Final Accuracy : 91.2% 
 
