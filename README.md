@@ -1,4 +1,14 @@
-In order to run our code, download it from the public google drive and open the project in MATLAB.
+Dataset can be found at : http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
+Language used : MATLAB
+
+We used 5 types of road signs : 
+    - Added Lane
+    - Keep Right
+    - Pedestrian Crossing
+    - Signal Ahead
+    - Stop Sign
+
+Project report is in the file : project_report.pdf
 
 Run the following files in order:
 
